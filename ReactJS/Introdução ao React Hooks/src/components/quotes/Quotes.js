@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { string, func } from 'prop-types';
-import { Button } from "../../components/button/Buttons";
+import { Button } from "../button/Buttons";
 
 export const Quotes = ({quote, speaker, onUpdate }) =>{
   return (

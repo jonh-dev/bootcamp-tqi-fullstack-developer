@@ -3,7 +3,7 @@ import React from "react";
 import styled from 'styled-components';
 import luffyImg from '../../images/luffy.png'
 import { Quotes } from "../../components/quotes/Quotes";
-import { getQuote } from "../../services/"
+import { getQuote } from "../../services"
 
 
 const App = () => {
