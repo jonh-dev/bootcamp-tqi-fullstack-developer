@@ -4,7 +4,14 @@ export const Wrapper = styled.div`
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  max-width: 100%;
+
+  @media screen and (max-width: 768px){
+    flex-direction: column;
+
+    div{
+      width: 100%;
+    }
+  }
 `;
 
 export const WrapperStatusCount = styled.div`
@@ -46,7 +53,6 @@ export const WrapperInfoUser = styled.div`
   flex-direction: column;
   justify-content: space-around;
   min-height: 150px;
-  width: 100%;
   margin-top: 10px;
   margin-left: 8px;
   

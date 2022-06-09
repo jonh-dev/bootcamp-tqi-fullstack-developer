@@ -95,7 +95,7 @@ function GithubProvider({ children }) {
     // eslint-disable-next-line
     getUserRepos: useCallback(() => getUserRepos(), []),
     // eslint-disable-next-line
-    getUserStarred: useCallback (() => getUserStarred(), []),
+    getUserStarred: useCallback(() => getUserStarred(), []),
   };
 
   return (
