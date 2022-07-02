@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+
+    mavenCentral()
+
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/mysql/mysql-connector-java
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.29'
+
+    // https://mvnrepository.com/artifact/org.hibernate/hibernate-core
+    implementation group: 'org.hibernate', name: 'hibernate-core', version: '6.1.0.Final'
+
+    compileOnly group: 'org.hibernate', name: 'hibernate-jpamodelgen', version: '6.1.0.Final'
+
+}
+
+
+test {
+    useJUnitPlatform()
+}

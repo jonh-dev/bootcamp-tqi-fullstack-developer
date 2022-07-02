@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Relacoes/Associacao/Associacao.iml" filepath="$PROJECT_DIR$/Relacoes/Associacao/Associacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacoes/Interface/Interface.iml" filepath="$PROJECT_DIR$/Relacoes/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Organizacao/Organizacao.iml" filepath="$PROJECT_DIR$/Organizacao/Organizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacoes/PolimorfismoESobrescrita/PolimorfismoESobrescrita.iml" filepath="$PROJECT_DIR$/Relacoes/PolimorfismoESobrescrita/PolimorfismoESobrescrita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programação Orientada a Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programação Orientada a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacoes/Relacoes.iml" filepath="$PROJECT_DIR$/Relacoes/Relacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relacoes/UpcastDowncast/UpcastDowncast.iml" filepath="$PROJECT_DIR$/Relacoes/UpcastDowncast/UpcastDowncast.iml" />
+    </modules>
+  </component>
+</project>
