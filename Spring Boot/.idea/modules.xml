@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Boot.iml" filepath="$PROJECT_DIR$/.idea/Spring Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/beans-components/beans-components.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/beans-components/beans-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criando uma Beer API/beer_api_digital_innovation_one-master/beerstock.iml" filepath="$PROJECT_DIR$/Criando uma Beer API/beer_api_digital_innovation_one-master/beerstock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/configuration-properties/configuration-properties.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/configuration-properties/configuration-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot Security/dio-spring-security/dio-spring-security.iml" filepath="$PROJECT_DIR$/SpringBoot Security/dio-spring-security/dio-spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot Security/dio-spring-security-jwt/dio-spring-security-jwt.iml" filepath="$PROJECT_DIR$/SpringBoot Security/dio-spring-security-jwt/dio-spring-security-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/primeiros-passos/primeiros-passos.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/primeiros-passos/primeiros-passos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/properties-values/properties-values.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/properties-values/properties-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/scopes-singleton-prototype/scopes-singleton-prototype.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/scopes-singleton-prototype/scopes-singleton-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Padrões de Projetos na Prática com Java/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/Padrões de Projetos na Prática com Java/spring-boot/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/spring-data-jpa/spring-data-jpa.iml" filepath="$PROJECT_DIR$/Imsersão no Spring Framework com Spring Boot/spring-data-jpa/spring-data-jpa.iml" />
+    </modules>
+  </component>
+</project>
